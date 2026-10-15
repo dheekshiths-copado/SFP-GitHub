@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Account_Learning_Field__c</fullName>
-    <description>Version 2 Learning Field, and this is for roll back testing</description>
+    <description>Version 2 Learning Field</description>
     <externalId>false</externalId>
     <label>Account Learning Field</label>
     <length>50</length>
